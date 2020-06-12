@@ -9,9 +9,10 @@ The livescript example considers the case of turbulet velocity time histories. T
   - A parametric test based on moving-window functions that compare the instantaneous mean or standard deviation to the one obtained without any detrending.
 
 To run the examples, you will need some additional functions:
-randomProcess.m, available on https://se.mathworks.com/matlabcentral/fileexchange/76854-one-point-random-process-generation 
-getSamplingPara.m, available on https://se.mathworks.com/matlabcentral/fileexchange/76854-one-point-random-process-generation 
-binAveraging.m, available on https://se.mathworks.com/matlabcentral/fileexchange/73584-averaging-noisy-data-into-bins  
+
+  - randomProcess.m, available on https://se.mathworks.com/matlabcentral/fileexchange/76854-one-point-random-process-generation 
+  - getSamplingPara.m, available on https://se.mathworks.com/matlabcentral/fileexchange/76854-one-point-random-process-generation 
+  - binAveraging.m, available on https://se.mathworks.com/matlabcentral/fileexchange/73584-averaging-noisy-data-into-bins  
 
 
 ## Content
