@@ -1,6 +1,9 @@
 # stationaryTests
 Matlab functions to test the stationarity of a random process
 
+[![View Stationarity test on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/54058-stationarity-test)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3891129.svg)](https://doi.org/10.5281/zenodo.3891129)
+
 ## Summary
 The N-th order stationarity [1] of a random process is assessed using two tests. In the present submission, only the first and second-order stationarities are described. A random process is stationary at the first order if its mean does not change (significantly) with the time. Similarly, a random process is stationary at the second-order if its variance or standard deviation does not change (significantly) with the time. 
 
