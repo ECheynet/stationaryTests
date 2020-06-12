@@ -24,5 +24,7 @@ The present submission contains:
 ## References
 
 [1] Priestley, M. B. (1981). Spectral Analysis and Time Series. Academic Press. ISBN 0-12-564922-3.
+
 [2] Bendat and piersol, Random data, 2010, page 99
+
 [3] Siegel, Sidney, and N. J. Castellan. "Non-para-metric statistics for the behavioral sciences." (1988).
