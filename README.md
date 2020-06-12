@@ -5,7 +5,7 @@ Matlab functions to test the stationarity of a random process
 The N-th order stationarity [1] of a random process is assessed using two tests. In the present submission, only the first and second-order stationarities are described. A random process is stationary at the first order if its mean does not change (significantly) with the time. Similarly, a random process is stationary at the second-order if its variance or standard deviation does not change (significantly) with the time. 
 
 The LiveScript example considers the case of turbulent velocity time histories. Their stationarity is assessed using two different approaches:
-  - A non-parametric test [2] called reverse-arrangement test, which detects trends and classify the time as non-stationary if the trend is not negligible.
+  - A non-parametric test [2,3], which detects trends and classify the time as non-stationary if the trend is not negligible.
   - A parametric test based on moving-window functions that compare the instantaneous mean or standard deviation to the one obtained without any detrending.
 
 To run the examples, you will need some additional functions:
