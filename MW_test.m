@@ -42,7 +42,7 @@ movMeanU = movmean(u,windowLength);
 Err1 = max(abs(movMeanU./nanmean(u)-1));
 
 %% Moving standard deviation function
-movStdU = movstd(u,windowLength);
+movStdU = movstd(detrend(u),windowLength); %  I chose to remove the liner trend here
 Err2 = max(abs(movStdU./nanstd(u)-1));
 
 
